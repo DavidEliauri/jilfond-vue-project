@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+    import AppLayout from '@/layouts/AppLayout.vue';
+</script>
 
 <template>
-    <div></div>
+    <AppLayout />
 </template>
 
 <style></style>
